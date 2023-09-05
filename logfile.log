@@ -1,0 +1,12 @@
+2023-09-05 01:12:26,981 : INFO : tests.test_demo1 : testing has started
+2023-09-05 01:12:27,558 : DEBUG : tests.test_demo1 : A bedug statement is executed
+2023-09-05 01:12:32,424 : INFO : tests.test_demo1 : actions has implemented
+2023-09-05 01:13:46,934 : INFO : tests.test_demo1 : testing has started
+2023-09-05 01:13:47,542 : DEBUG : tests.test_demo1 : A bedug statement is executed
+2023-09-05 01:13:52,447 : INFO : tests.test_demo1 : actions has implemented
+2023-09-05 01:20:38,116 : INFO : tests.test_demo1 : testing has started
+2023-09-05 01:20:38,745 : DEBUG : tests.test_demo1 : A bedug statement is executed
+2023-09-05 01:20:43,724 : INFO : tests.test_demo1 : actions has implemented
+2023-09-05 09:07:32,055 : INFO : tests.test_demo1 : testing has started
+2023-09-05 09:07:32,643 : DEBUG : tests.test_demo1 : A bedug statement is executed
+2023-09-05 09:07:38,293 : INFO : tests.test_demo1 : actions has implemented

@@ -1,0 +1,40 @@
+2023-09-05 01:01:37,463 : INFO : tests.test_demo1 : testing has started
+2023-09-05 01:01:38,077 : DEBUG : tests.test_demo1 : A bedug statement is executed
+2023-09-05 01:01:43,280 : INFO : tests.test_demo1 : actions has implemented
+2023-09-05 08:35:36,127 : INFO : tests.test_demo1 : testing has started
+2023-09-05 08:35:36,805 : DEBUG : tests.test_demo1 : A bedug statement is executed
+2023-09-05 08:35:42,045 : INFO : tests.test_demo1 : actions has implemented
+2023-09-05 16:09:25,922 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:09:26,581 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:12:09,758 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:12:10,400 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:13:59,208 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:13:59,823 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:16:35,400 : INFO : tests.test_demo1 : login page executing
+2023-09-05 16:16:36,045 : INFO : tests.test_demo1 : admin module is executing
+2023-09-05 16:18:39,582 : INFO : tests.test_demo1 : login page executing
+2023-09-05 16:18:40,203 : INFO : tests.test_demo1 : admin module is executing
+2023-09-05 16:18:45,529 : INFO : tests.test_demo1 : actions has implemented
+2023-09-05 16:20:11,480 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:20:13,384 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:20:17,107 : INFO : tests.Baseclass : actions has implemented
+2023-09-05 16:22:55,833 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:22:56,433 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:23:01,373 : INFO : tests.Baseclass : actions has implemented
+2023-09-05 16:48:33,861 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:48:34,465 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:48:39,772 : INFO : tests.Baseclass : actions has implemented
+2023-09-05 16:51:47,381 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:51:49,144 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:51:53,162 : INFO : tests.Baseclass : actions has implemented
+2023-09-05 16:55:53,714 : INFO : tests.Baseclass : login page executing
+2023-09-05 16:55:54,282 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 16:55:59,183 : INFO : tests.Baseclass : actions has implemented
+2023-09-05 17:00:10,759 : INFO : tests.Baseclass : login page executing
+2023-09-05 17:00:12,120 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 17:00:56,943 : INFO : tests.Baseclass : login page executing
+2023-09-05 17:00:58,982 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 17:01:03,653 : INFO : tests.Baseclass : actions has implemented
+2023-09-05 17:03:36,415 : INFO : tests.Baseclass : login page executing
+2023-09-05 17:03:37,021 : INFO : tests.Baseclass : admin module is executing
+2023-09-05 17:03:42,527 : INFO : tests.Baseclass : actions has implemented
